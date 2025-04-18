@@ -1,10 +1,5 @@
 ---
 
-# 🌟 GitHub Badge Suggestion
-
-At the top of your README, add badges like:
-
-````markdown
 [![Built with Hugging Face](https://img.shields.io/badge/Built%20with-Hugging%20Face-yellow)](https://huggingface.co/)
 [![Powered by Streamlit](https://img.shields.io/badge/Powered%20by-Streamlit-ff4b4b)](https://streamlit.io/)
 
@@ -29,7 +24,8 @@ It aims to assist language learners in a fun and creative way while ensuring acc
 pip install -r requirements.txt
 streamlit run app.py
 ```
-````
+
+```
 
 ## Example
 
@@ -52,3 +48,4 @@ Que le vent emporte mes paroles…”
 - 🌍 Expand to support different input types like cultural references and real-world events
 - 🧠 Fine-tune multilingual lyric generation models for style, emotional tone, and difficulty level
 - ⚖️ Implement fairness checks for cultural sensitivity in generated lyrics
+```
