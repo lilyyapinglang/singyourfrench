@@ -25,8 +25,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-```
-
 ## Example
 
 Input: Subjonctif Présent
@@ -48,4 +46,7 @@ Que le vent emporte mes paroles…”
 - 🌍 Expand to support different input types like cultural references and real-world events
 - 🧠 Fine-tune multilingual lyric generation models for style, emotional tone, and difficulty level
 - ⚖️ Implement fairness checks for cultural sensitivity in generated lyrics
+
+```
+
 ```
